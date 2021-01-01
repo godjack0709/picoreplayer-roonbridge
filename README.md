@@ -1,8 +1,6 @@
 # picoreplayer-roonbridge
 Script to install RoonBridge on recent PiCorePlayer OS and Pi4 x64
 
-Script to install RoonBridge on recent PiCorePlayer OS
-
 Login to PiCorePlayer using ssh, default login: tc password: piCore
 
 To install, run:
